@@ -8,3 +8,5 @@ Data Analyst, Ecommerce & Business Intelligence professional with experience in 
 * Machine Learning: Linear Models, Random Forest, Gradient Boosting, Naive Bayes, KNN, SVM, NLP using Huggingface
 * Project Management: Asana, Confluence, Amazon Seller Central, SAP
 
+## Projects
+* [Regression - Random Forest - Predicting Rent Price in NYC](https://github.com/ComradeZik/Predicting-Airbnb-rent-price-in-NYC.git)
