@@ -11,3 +11,11 @@ Data Analyst, Ecommerce & Business Intelligence professional with experience in 
 ## Projects
 * [Regression - Random Forest - Predicting Rent Price in NYC](https://github.com/ComradeZik/Predicting-Airbnb-rent-price-in-NYC.git)
 * [Data Visualization - Tableau - CitiBike redistribution problem](https://github.com/ComradeZik/City-Bike-Redistribution---Tableau.git)
+
+# Self Introduction
+![image](https://user-images.githubusercontent.com/98541044/193343182-c89d1f59-f740-423f-b951-458a6e944753.png)
+![image](https://user-images.githubusercontent.com/98541044/193343206-807cf54f-abb0-4981-b6ee-33f8351f2fc5.png)
+![image](https://user-images.githubusercontent.com/98541044/193343224-e132d57f-5703-4c4d-9190-9c46f8e7d6b7.png)
+![image](https://user-images.githubusercontent.com/98541044/193343238-709dfb73-0551-4701-a961-5cf167341da1.png)
+![image](https://user-images.githubusercontent.com/98541044/193343254-4a3ee783-8ac4-4535-9838-d665704821a0.png)
+
