@@ -11,6 +11,7 @@ Data Analyst, Ecommerce & Business Intelligence professional with experience in 
 ## Projects
 * [Regression - Random Forest - Predicting Rent Price in NYC](https://github.com/ComradeZik/Predicting-Airbnb-rent-price-in-NYC.git)
 * [Data Visualization - Tableau - CitiBike redistribution problem](https://github.com/ComradeZik/City-Bike-Redistribution---Tableau.git)
+* [Rest APIs - R - Accessing Data from social media via API tokens](https://github.com/ComradeZik/Rest-APIs-for-Pulling-Twitter-Data.git)
 
 # Self Introduction
 ![image](https://user-images.githubusercontent.com/98541044/193343182-c89d1f59-f740-423f-b951-458a6e944753.png)
@@ -19,3 +20,4 @@ Data Analyst, Ecommerce & Business Intelligence professional with experience in 
 ![image](https://user-images.githubusercontent.com/98541044/193343238-709dfb73-0551-4701-a961-5cf167341da1.png)
 ![image](https://user-images.githubusercontent.com/98541044/193343254-4a3ee783-8ac4-4535-9838-d665704821a0.png)
 
+Rest-APIs-for-Pulling-Twitter-Data
