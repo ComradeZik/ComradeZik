@@ -9,7 +9,7 @@ Data Analyst, Ecommerce & Business Intelligence professional with experience in 
 * Project Management: Asana, Confluence, Amazon Seller Central, SAP
 
 ## Projects
-* [Regression - Random Forest - Predicting Rent Price in NYC](https://github.com/ComradeZik/Predicting-Airbnb-rent-price-in-NYC.git)
+* [Random Forest Regression - R - Predicting Rent Price in NYC](https://github.com/ComradeZik/Predicting-Airbnb-rent-price-in-NYC.git)
 * [Data Visualization - Tableau - CitiBike redistribution problem](https://github.com/ComradeZik/City-Bike-Redistribution---Tableau.git)
 * [Rest APIs - R - Accessing Data from social media via API tokens](https://github.com/ComradeZik/Rest-APIs-for-Pulling-Twitter-Data.git)
 
