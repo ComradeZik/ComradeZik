@@ -13,6 +13,8 @@ Data Analyst, Ecommerce & Business Intelligence professional with experience in 
 * [Data Visualization - Tableau - CitiBike redistribution problem](https://github.com/ComradeZik/City-Bike-Redistribution---Tableau.git)
 * [Rest APIs - R - Accessing Data from social media via API tokens](https://github.com/ComradeZik/Rest-APIs-for-Pulling-Twitter-Data.git)
 * [Bayesian Structural Time Series - R - Research on Anti-Asian Hate Crimes and Covid-19](https://github.com/ComradeZik/NYC-Anti-Asain-Hate-Crime-amid-Covid.git)
+* [Zero-Shot Text Classfication - Python - Retailler Review Insights and Sentiment Analysis](https://github.com/ComradeZik/NLP-Capstone-Project.git)
+
 
 # Self Introduction
 ![image](https://user-images.githubusercontent.com/98541044/193343182-c89d1f59-f740-423f-b951-458a6e944753.png)
