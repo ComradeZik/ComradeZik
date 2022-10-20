@@ -4,8 +4,8 @@ Data Analyst, Ecommerce & Business Intelligence professional with experience in 
 * Check my [LinkedIn Profile](https://www.linkedin.com/in/zikchen/) for details on my work experiences.
 
 ## Technical Skills
-* Languages: Python, R, SQL, Tableau, Excel/VBA
-* Machine Learning: Linear Models, Random Forest, Gradient Boosting, Naive Bayes, KNN, SVM, NLP using Huggingface
+* Languages: Python, R, SQL, Tableau, Google Spreadsheet, Excel
+* Machine Learning: Linear Models, Random Forest, Gradient Boosting, Baysian Times Series, KNN, SVM, NLP using Huggingface
 * Project Management: Asana, Confluence, Amazon Seller Central, SAP
 
 ## Projects
